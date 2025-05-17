@@ -22,25 +22,13 @@
 ```javascript
 const profile = {
   name: "arasea",
-  title: "Elysia's ...",
+  title: "Loser",
   location: "Somewhere in the Universe 🌌",
-  currentQuest: "Developing Ely ⚡",
-  interests: [
-    "🎮 Honkai Impact 3rd",
-    "🎵 Music & Coding",
-    "🌌 Anime Universe",
-    "🤖 Bot Development",
-    "🚀 Space Exploration",
-    "📚 Continuous Learning"
-  ],
-  dailyBuffs: [
-    "☕ Coffee",
-    "🎧 Music",
-    "💪 Determination",
-    "🌟 Inspiration"
-  ],
-  commandPhilosophy: "If it works, don't touch it!",
-  target: "Can copypaste code without any error",
+  currentQuest: "Nothing",
+  interests: [],
+  dailyBuffs: [],
+  commandPhilosophy: "just because you don't give up, doesn't mean you will make it",
+  target: "Nothing",
   achievements: [
     "🏆 Alive"
   ]
