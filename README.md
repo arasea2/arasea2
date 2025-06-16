@@ -1,8 +1,8 @@
 <h1 align="center">✨ Welcome ✨</h1>
 
 <p>
-  <a href="https://github.com/arasea2">
-    <img src="https://cardivo.vercel.app/api?name=Arasea&description=Hello,%20Im%20Arasea%20and%20i%20love%20playing%20Game%20And%20Listening%20Music&image=https://i.ibb.co.com/MBPMm9V/photos.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&site=Elysia%27s%20Husband&instagram=arasea2_&github=arasea2&pattern=leaf&colorPattern=%23eaeaea" />
+  <a href="https://github.com/ziyu4">
+    <img src="https://cardivo.vercel.app/api?name=Ziyu&description=Hello,%20Im%20Ziyu%20and%20i%20love%20playing%20Game%20And%20Listening%20Music&image=https://i.ibb.co.com/MBPMm9V/photos.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&site=Elysia%27s%20Husband&instagram=pndtr.10&github=ziyu4&pattern=leaf&colorPattern=%23eaeaea" />
   <a>
 </p>
 
@@ -21,8 +21,8 @@
 
 ```javascript
 const profile = {
-  name: "arasea",
-  title: "Loser",
+  name: "ziyu",
+  title: Null,
   location: "Somewhere in the Universe 🌌",
   currentQuest: "Nothing",
   interests: [],
@@ -54,25 +54,25 @@ const profile = {
 <h2 align="center">📊 Battle Records 📊</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arasea2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=6B5BE2" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arasea2&theme=tokyonight&hide_border=true&fire=6B5BE2&ring=6B5BE2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziyu4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=6B5BE2" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ziyu4&theme=tokyonight&hide_border=true&fire=6B5BE2&ring=6B5BE2" />
 </div>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasea2&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="arasea2" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasea2&theme=tokyonight" alt="arasea2" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziyu4&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ziyu4" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziyu4&theme=tokyonight" alt="ziyu4" />
 </div>
 
 <!-- <h2 align="center">🏆 Achievement Wall 🏆</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arasea2&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ziyu4&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div> -->
 
 <h2 align="center">📈 Mission Activity 📈</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arasea2&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Log" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyu4&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Log" />
 </div>
 
 <div align="center">
@@ -83,14 +83,14 @@ const profile = {
 <h2 align="center">🌐 Contact Me 🌐</h2>
 
 <p align="center">
-  <a href="https://github.com/arasea2">
-    <img src="https://img.shields.io/badge/GitHub-arasea's%20Hub-6B5BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/ziyu4">
+    <img src="https://img.shields.io/badge/GitHub-Ziyu's%20Hub-6B5BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/panda.tri.73">
-    <img src="https://img.shields.io/badge/Facebook-arasea-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://facebook.com/ziyu4">
+    <img src="https://img.shields.io/badge/Facebook-Ziyu-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/arasea2_">
-    <img src="https://img.shields.io/badge/Instagram-arasea-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/pndtr.10">
+    <img src="https://img.shields.io/badge/Instagram-Ziyu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -201,8 +201,8 @@ const profile = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arasea2/snake/refs/heads/main/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arasea2/snake/refs/heads/main/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arasea2/snake/refs/heads/main/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziyu4/snake/refs/heads/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziyu4/snake/refs/heads/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ziyu4/snake/refs/heads/main/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
