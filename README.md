@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/ziyu4">
-    <img src="https://cardivo.vercel.app/api?name=Ziyu&description=Hello,%20Im%20Ziyu%20and%20i%20love%20playing%20Game%20And%20Listening%20Music&image=https://i.ibb.co.com/MBPMm9V/photos.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&site=Elysia%27s%20Husband&instagram=pndtr.10&github=ziyu4&pattern=leaf&colorPattern=%23eaeaea" />
+    <img src="https://cardivo.vercel.app/api?name=Ziyu&description=Hello,%20Im%20Ziyu%20and%20i%20love%20playing%20Game%20And%20Listening%20Music&image=https://i.ibb.co.com/MBPMm9V/photos.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&site=t.me/ziyu4_bot&instagram=pndtr.10&github=ziyu4&pattern=leaf&colorPattern=%23eaeaea" />
   <a>
 </p>
 
